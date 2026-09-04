@@ -1,0 +1,19 @@
+{
+  "meter_id": "MTR-PC-01-MAIN",
+  "facility_id": "FAC-PC-01",
+  "period": "2026-08",
+  "readings": [
+    {
+      "date": "2026-08-01",
+      "reading_kwh": 145200
+    },
+    {
+      "date": "2026-08-31",
+      "reading_kwh": 166200
+    }
+  ],
+  "consumption_kwh": 21000.0,
+  "meter_type": "smart_meter",
+  "calibration_date": "2026-03-15",
+  "accuracy_class": "0.5"
+}

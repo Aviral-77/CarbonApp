@@ -1,0 +1,20 @@
+{
+  "vendor_id": "SUP-001",
+  "vendor_name": "GreenTech Manufacturing",
+  "facility_id": "FAC-GT-01",
+  "period": "2026-07",
+  "line_items": [
+    {
+      "account_code": "6100-ELEC",
+      "description": "Electricity consumption - main facility",
+      "quantity": 18420.0,
+      "unit": "kWh",
+      "unit_cost": 0.12,
+      "total_cost": 2210.40,
+      "po_number": "PO-2026-4521"
+    }
+  ],
+  "currency": "USD",
+  "payment_status": "paid",
+  "payment_date": "2026-07-28"
+}
